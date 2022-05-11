@@ -1,0 +1,69 @@
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database.mdf
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database_log.ldf
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.config
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.xml
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.pdb
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.CodeAnalysisLog.xml
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.lastcodeanalysissucceeded
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddCoursesToSelectedQualification.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddSelectedCourseToQualifications.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddStudentsToSelectedQualification.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmCourses.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmLogin.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmMarks.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmPeople.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmQualifications.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmSettings.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmTask.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.Properties.Resources.resources
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csproj.GenerateResource.Cache
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.exe
+C:\Users\benlo\OneDrive\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.pdb
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database.mdf
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database_log.ldf
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.config
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.xml
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.pdb
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.CodeAnalysisLog.xml
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.lastcodeanalysissucceeded
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddCoursesToSelectedQualification.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddSelectedCourseToQualifications.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddStudentsToSelectedQualification.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmCourses.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmLogin.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmMarks.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmPeople.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmQualifications.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmSettings.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmTask.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.Properties.Resources.resources
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csproj.GenerateResource.Cache
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.exe
+C:\Users\Ben\Dropbox\School\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.pdb
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database.mdf
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\Database_log.ldf
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.config
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.xml
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.pdb
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.CodeAnalysisLog.xml
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\bin\Debug\ABC Management Studio.exe.lastcodeanalysissucceeded
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csprojAssemblyReference.cache
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddCoursesToSelectedQualification.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddSelectedCourseToQualifications.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmAddStudentsToSelectedQualification.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmCourses.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmLogin.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmMarks.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmPeople.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmQualifications.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmSettings.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.FrmTask.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC_Management_Studio.Properties.Resources.resources
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csproj.GenerateResource.cache
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.csproj.CoreCompileInputs.cache
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.exe
+C:\Users\benlo\Google Drive\School\Diploma of Software Development\C# Programming 1c\ABC Managment Studio\ABC Management Studio\obj\Debug\ABC Management Studio.pdb

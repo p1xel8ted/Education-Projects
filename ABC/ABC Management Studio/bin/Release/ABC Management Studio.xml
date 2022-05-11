@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ABC Management Studio</name>
+    </assembly>
+    <members>
+        <member name="F:ABC_Management_Studio.FrmAddCoursesToSelectedQualification.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddCoursesToSelectedQualification.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddCoursesToSelectedQualification.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.FrmAddSelectedCourseToQualifications">
+            <summary>
+                This form is used to add a course to one or more qualifications at once. It is available
+                through the context menu when there is a Course DGV on the screen.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmAddSelectedCourseToQualifications.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddSelectedCourseToQualifications.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddSelectedCourseToQualifications.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.FrmAddStudentsToSelectedQualification">
+            <summary>
+                This form is used anywhere the Qualification DGV is avaible for clicking. It allows a user
+                to add students directly to the selected qualification. This menu is accessed through the
+                context menu.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmAddStudentsToSelectedQualification.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddStudentsToSelectedQualification.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmAddStudentsToSelectedQualification.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.FrmCourses">
+            <summary>
+                This form is used for the management of Courses available at ABC. User can add/remove/edit
+                as well as add a course to a qualification, and add students to qualifications through this
+                screen also.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmCourses.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmCourses.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmCourses.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmPeople.AddAdmin">
+            <summary>
+                Used for creating and adding a new administrator.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmPeople.AddStudent">
+            <summary>
+                Used for creating and adding a new student.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmPeople.AddTeacher">
+            <summary>
+                Used for creating and adding a new teacher.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmPeople.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmPeople.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmPeople.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmQualifications.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmQualifications.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmQualifications.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.FrmSettings">
+            <summary>
+                Used for settings. At the moment the only configurable setting is the amount of semesters in
+                a year.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmSettings.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmSettings.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmSettings.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmTask.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmTask.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmTask.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmMarks.AddMark(ABC_Management_Studio.Student_Course)">
+            <summary>
+                This method is for adding new marks to the database.
+            </summary>
+            <param name="mark">The mark to add</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmMarks.DeleteRecord(System.Object)">
+            <summary>
+                This deletes the record. Will only function if its the Student or Course context menu
+                calling it.
+            </summary>
+            <param name="sender">The sender (StudentIdContext/CourseIdContext)</param>
+        </member>
+        <member name="F:ABC_Management_Studio.FrmMarks.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmMarks.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Management_Studio.FrmMarks.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.Program.Main">
+            <summary>
+                The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.apply">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.config">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.edit_add">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.edit_remove">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.exit">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.icon96">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+            </summary>
+        </member>
+        <member name="P:ABC_Management_Studio.Properties.Resources.marks">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="T:ABC_Management_Studio.Util">
+            <summary>
+                Utilities class. All the methods that are used throughout the program multiple times can be
+                found here.
+            </summary>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.DoesPersonExist(System.Int32)">
+            <summary>
+                Checks if a person exists based on thier id.
+            </summary>
+            <param name="id">The id of the person.</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.DoesCourseExist(System.Int32)">
+            <summary>
+                Checks if a course exists using the course id.
+            </summary>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.DoesStudentExist(System.Int32)">
+            <summary>
+                Checks if a student exists.
+            </summary>
+            <param name="id">The ID of the student.</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.DoesTeacherExist(System.Int32)">
+            <summary>
+                Checks if a teacher exists based on thier teacher id.
+            </summary>
+            <param name="tid">The teachers id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.FillByCourseId(System.Int32)">
+            <summary>
+                Get a list of students that are enrolled in a particular course using the course id.
+            </summary>
+            <param name="cid">The cid.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.FillByStudentId(System.Int32)">
+            <summary>
+                Gets a list of courses a particular student is on using thier student id.
+            </summary>
+            <param name="sid">The students id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetAdminExtras">
+            <summary>
+                Gets all the admin details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetAdmins">
+            <summary>
+                Gets all the people listed as admins
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetCourseByCid(System.Int32)">
+            <summary>
+                Gets the course object by course id.
+            </summary>
+            <param name="cid">The cid.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetCourseNameByCourseId(System.Int32)">
+            <summary>
+                Gets the name of the specified course.
+            </summary>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetCourseQualifications(System.Int32)">
+            <summary>
+                Gets a list of qualifications that contain the specified course.
+            </summary>
+            <param name="cid">The cid.</param>
+            <returns>List</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetCourses">
+            <summary>
+                Gets all the courses offered.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetPerson(System.Int32)">
+            <summary>
+                Gets a person based on thier id.
+            </summary>
+            <param name="id">The id of the person.</param>
+            <returns>Person</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetPersonName(System.Int32)">
+            <summary>
+                Gets the full name of the person using thier id.
+            </summary>
+            <param name="id">The person id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetPersonRole(System.Int32)">
+            <summary>
+                Gets the role of a person. i.e. admin/teacher
+            </summary>
+            <param name="id">The id of the person.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationByQCode(System.String)">
+            <summary>
+                Gets the qualification as an object.
+            </summary>
+            <param name="qCode">The qualification code.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationCodeByName(System.String)">
+            <summary>
+                Gets the name of the qualification qCode by using the qualification name.
+            </summary>
+            <param name="qName">Name of the qualification</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationCourses(System.String)">
+            <summary>
+                Gets a list of courses contained in a qualification.
+            </summary>
+            <param name="qCode">The qualification qCode.</param>
+            <returns>List of Courses</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationLengthByName(System.String)">
+            <summary>
+                Gets duration of a particular qualification in years. Rounds UP to nearest year.
+            </summary>
+            <param name="qName">Name of the qualification.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationLengthsAsYears">
+            <summary>
+                Gets the duration of all qualifications in years. Rounds UP to nearest year.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualifications">
+            <summary>
+                Gets all the qualifications offered.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetStudentCourseMark(System.Int32,System.Int32)">
+            <summary>
+                Gets mark for a course for a particular student.
+            </summary>
+            <param name="sid">The student id.</param>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetStudents">
+            <summary>
+                Gets all the students (enrolled or not).
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetStudentsOnCourseCount(System.Int32)">
+            <summary>
+                Gets the amount of students on a particular course.
+            </summary>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetTeacherExtras">
+            <summary>
+                Gets all the teacher details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetTeacherIds">
+            <summary>
+                Gets the teacher ids in string form i.e 1, 2, 3, 4, 5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetTeachers">
+            <summary>
+                Gets all the people listed as teachers.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.Int(System.Object)">
+            <summary>
+                Returns the object value as int.
+            </summary>
+            <param name="toConvert">To convert.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.IsStudentEnrolled(System.Int32)">
+            <summary>
+                Determines whether a student is enrolled in any qualifications.
+            </summary>
+            <param name="sid">The id of the student to check.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.RemoveCourseFromAbc(System.Int32)">
+            <summary>
+                Removes the specified course from the system completely.
+            </summary>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.RemoveCourseFromQualification(System.Int32,System.String)">
+            <summary>
+                Removes the specified course from the specified qualification.
+            </summary>
+            <param name="cid">The course id.</param>
+            <param name="qCode">The qualification code.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.RemoveQualificationFromAbc(System.String)">
+            <summary>
+                Removes the specified qualificaton from the system completely.
+            </summary>
+            <param name="qCode">The qualification qCode.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.StudentIsOnCourse(System.Int32,System.Int32)">
+            <summary>
+                Checks if a student is on a course using thier id and the course id.
+            </summary>
+            <param name="sid">The stjudent id.</param>
+            <param name="cid">The course id.</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.ValidInput(System.String,System.String,System.String)">
+            <summary>
+                Used for validating a new student mark. Checks if all the fields are numbers.
+            </summary>
+            <param name="cid">The cid.</param>
+            <param name="sid">The sid.</param>
+            <param name="mark">The mark.</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.ValidNumber(System.String)">
+            <summary>
+                Checks if a string is a number.
+            </summary>
+            <param name="textNumber">The string to check.</param>
+            <returns>True/False</returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.AnyStudentsOnCourse(System.Int32)">
+            <summary>
+                Checks of there are any students on particular course.
+            </summary>
+            <param name="cid">The course id.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ABC_Management_Studio.Util.GetQualificationNameByQCode(System.String)">
+            <summary>
+                Gets the qualification name by using the qualification qCode
+            </summary>
+            <param name="qCode">The qualification qCode.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

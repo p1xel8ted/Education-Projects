@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0A214E35-D8E9-470F-BDF5-07F5BD498F90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ABC_Management_Studio</RootNamespace>
+    <AssemblyName>ABC Management Studio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\ABC Management Studio.xml</DocumentationFile>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\ABC Management Studio.xml</DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ABC_Management_Studio.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>Resources\icon96.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAddCoursesToSelectedQualification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddCoursesToSelectedQualification.Designer.cs">
+      <DependentUpon>FrmAddCoursesToSelectedQualification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddSelectedCourseToQualifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddSelectedCourseToQualifications.Designer.cs">
+      <DependentUpon>FrmAddSelectedCourseToQualifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddStudentsToSelectedQualification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddStudentsToSelectedQualification.Designer.cs">
+      <DependentUpon>FrmAddStudentsToSelectedQualification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCourses.Designer.cs">
+      <DependentUpon>FrmCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPeople.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeople.Designer.cs">
+      <DependentUpon>FrmPeople.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQualifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQualifications.Designer.cs">
+      <DependentUpon>FrmQualifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSettings.Designer.cs">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTask.Designer.cs">
+      <DependentUpon>FrmTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMarks.Designer.cs">
+      <DependentUpon>FrmMarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LINQStudents.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LINQStudents.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Messages.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Util.cs" />
+    <EmbeddedResource Include="FrmAddCoursesToSelectedQualification.resx">
+      <DependentUpon>FrmAddCoursesToSelectedQualification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddSelectedCourseToQualifications.resx">
+      <DependentUpon>FrmAddSelectedCourseToQualifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddStudentsToSelectedQualification.resx">
+      <DependentUpon>FrmAddStudentsToSelectedQualification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCourses.resx">
+      <DependentUpon>FrmCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMarks.resx">
+      <DependentUpon>FrmMarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LINQStudents.dbml.layout">
+      <DependentUpon>LINQStudents.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="FrmPeople.resx">
+      <DependentUpon>FrmPeople.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQualifications.resx">
+      <DependentUpon>FrmQualifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSettings.resx">
+      <DependentUpon>FrmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTask.resx">
+      <DependentUpon>FrmTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="LINQStudents.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LINQStudents.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database.mdf</DependentUpon>
+    </Content>
+    <Content Include="Resources\edit_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\edit_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\icon96.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\marks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\admins.png" />
+    <Content Include="Resources\courses.png" />
+    <Content Include="Resources\people.png" />
+    <Content Include="Resources\quals.png" />
+    <Content Include="Resources\teacher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

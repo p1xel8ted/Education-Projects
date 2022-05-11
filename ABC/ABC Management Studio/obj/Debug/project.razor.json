@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Ben\\Google Drive\\Development\\ABC\\ABC Management Studio\\ABC Management Studio.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
